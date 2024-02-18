@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 7779284265188486691}
   - component: {fileID: 8174709416893644347}
   m_Layer: 0
-  m_Name: AR Plane
+  m_Name: AR Plane Prefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
